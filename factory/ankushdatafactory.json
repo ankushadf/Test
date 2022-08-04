@@ -1,0 +1,9 @@
+{
+	"name": "ankushdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b06c9de-3d00-4781-8808-efad3acc1a3f",
+		"tenantId": "df83ae79-eb2a-4b95-be2e-e78f053908d6"
+	}
+}
