@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ankushdatafactory"
+		},
+		"Azure_Datalake_ls_accountKey": {
+			"value": ""
+		},
+		"Azure_SQL_Tables_connectionString": {
+			"value": ""
+		},
+		"ls_SQLServer_connectionString": {
+			"value": ""
+		},
+		"Azure_Datalake_ls_properties_typeProperties_url": {
+			"value": "https://azurebiglake01.dfs.core.windows.net/"
+		}
+	}
+}
